@@ -22,7 +22,7 @@
 
       <div class="row next-harvest">
         <div class="col-md-12">
-          <h3>Our next harvest is on <a href="#">January 8th</a>!</h3>
+          <h3>Our next harvest is on <a href="#">January 16th</a>!</h3>
         </div>
       </div>
 
