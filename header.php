@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title><?php echo get_bloginfo( 'Fruit Share Houston' ); ?></title>
+  <title>Fruit Share Houston</title>
   <meta name="description" content="FruitShare Houston">
   <link id="favicon" rel="icon" href="//fruitsharehouston.github.io/images/favicon.ico" type="image/x-icon">
   <meta charset="utf-8">
@@ -19,7 +19,7 @@
     <nav class="navbar navbar-default navbar-fruit-share">
       <div class="container-fluid">
         <div class="navbar-header">
-          <a class="navbar-brand" href="//fruitsharehouston.github.io">
+          <a class="navbar-brand" href="//fruitsharehouston.org">
             <img alt="Fruit Share Logo" src="//fruitsharehouston.github.io/images/logo-branch-menu.png">
             <span class="brand-type">F<span class="hidden-xs">ruit</span> S<span class="hidden-xs">hare</span> H<span class="hidden-xs">ouston</span></span>
           </a>
