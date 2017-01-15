@@ -48,7 +48,7 @@
             <li class="dropdown">
               <a href="//fruitsharehouston.github.io/about" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="//fruitsharehouston.github.io/about#our-story">Mission</a></li>
+                <li><a href="//fruitsharehouston.github.io/about#mission">Mission</a></li>
                 <li><a href="//fruitsharehouston.github.io/about#our-story">Our Story</a></li>
                 <li><a href="//fruitsharehouston.github.io/about#faq">FAQ</a></li>
                 <li><a href="//fruitsharehouston.github.io/about#press">Press</a></li>
