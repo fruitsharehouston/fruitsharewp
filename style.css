@@ -150,7 +150,7 @@ a.social {
 
 a.social {
   color: rgba(255, 255, 255, 0.7);
-  background-image: url(../images/elements/fruit.png);
+  background-image: url(./images/elements/fruit.png);
   background-size: 90%;
   background-repeat: no-repeat;
   background-position: center bottom;
@@ -496,4 +496,10 @@ footer .contact-info li {
   .action a {
     height: 270px;
   }
+}
+
+.philantro-btn {
+   display: inline-block;
+   width: 200px;
+   margin: auto;
 }

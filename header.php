@@ -44,26 +44,10 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="fruit-share-nav">
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="//fruitsharehouston.github.io">Home</a></li>
-            <li class="dropdown">
-              <a href="//fruitsharehouston.github.io/about" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="//fruitsharehouston.github.io/about#mission">Mission</a></li>
-                <li><a href="//fruitsharehouston.github.io/about#our-story">Our Story</a></li>
-                <li><a href="//fruitsharehouston.github.io/about#faq">FAQ</a></li>
-                <li><a href="//fruitsharehouston.github.io/about#press">Press</a></li>
-              </ul>
+            <li><a href="//fruitsharehouston.org">Home</a></li>
+            	<?php wp_list_pages( '&title_li=' ); ?>              
             </li>
-            <li class="dropdown">
-              <a href="//fruitsharehouston.github.io/volunteer" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Volunteer <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="//fruitsharehouston.github.io/volunteer#pick-with-us">Pick with Us!</a></li>
-                <li><a href="//fruitsharehouston.github.io/volunteer#upcoming">Upcoming Harvests</a></li>
-              </ul>
-            </li>
-            <li><a href="//fruitsharehouston.github.io/donate">Donate</a></li>
-            <li><a href="//fruitsharehouston.github.io/tree">Got Citrus Fruit?</a></li>
-          </ul>
+           
         </div><!-- /.navbar-collapse -->
 
       </div>
