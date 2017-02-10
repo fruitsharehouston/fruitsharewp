@@ -11,10 +11,9 @@
         <i class="fa fa-instagram" aria-hidden="true"></i>
       </a>
 
-      <ul class="contact-info">
-        <li>713-000-0000</li>
-        <li>-  500 Fruitshare Circle, Houston, TX</li>
-      </<ul>
+      <p class="contact-info">
+       Email us at fruitsharehouston@gmail.com
+      </p>
 
     </div>
   </footer>
