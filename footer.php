@@ -12,7 +12,7 @@
       </a>
 
       <p class="contact-info">
-       Email us at <a href="fruitsharehouston@gmail.com">fruitsharehouston@gmail.com</a>
+       Email us at fruitsharehouston@gmail.com
       </p>
 
     </div>
