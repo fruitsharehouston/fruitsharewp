@@ -28,19 +28,19 @@
 
       <div class="row action">
         <div class="col-sm-4">
-          <a href="//fruitsharehouston.github.io/volunteer">
+          <a href="//fruitsharehouston.org/volunteer">
             <h1>Pick with us</h1>
             <img src="//fruitsharehouston.github.io/images/picking-fruit.jpg"/>
           </a>
         </div>
         <div class="col-sm-4">
-          <a href="//fruitsharehouston.github.io/tree">
+          <a href="//fruitsharehouston.org/share-tree">
             <h1>Share your tree</h1>
             <img src="//fruitsharehouston.github.io/images/picked-fruits.jpg"/>
           </a>
         </div>
         <div class="col-sm-4">
-          <a href="//fruitsharehouston.github.io/about#press">
+          <a href="//fruitsharehouston.org/about#press">
             <h1>News</h1>
             <img src="//fruitsharehouston.github.io/images/open-cut-fruit.jpg"/>
           </a>
