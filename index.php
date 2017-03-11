@@ -11,7 +11,7 @@
               <h1>100,000 pounds <strong>picked</strong> &amp; <strong>shared</strong> last season!</h1>
             </div>
           </div>-->
-         
+         [tribulant_slideshow gallery_id="1"]
         </div>
       </div>
 
