@@ -11,7 +11,7 @@
               <h1>100,000 pounds <strong>picked</strong> &amp; <strong>shared</strong> last season!</h1>
             </div>
           </div>-->
-         <?php if (function_exists('slideshow')) { slideshow($output = true, $gallery_id = false, $post_id = false, $params = array()); } ?>
+         if ( function_exists( 'soliloquy' ) ) { soliloquy( '90' ); }
         </div>
       </div>
 
