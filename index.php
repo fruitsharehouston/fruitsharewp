@@ -11,7 +11,7 @@
               <h1>100,000 pounds <strong>picked</strong> &amp; <strong>shared</strong> last season!</h1>
             </div>
           </div>-->
-         <?php do_action('slideshow_deploy', '86'); ?>
+         
         </div>
       </div>
 
