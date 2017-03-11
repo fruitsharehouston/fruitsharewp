@@ -5,12 +5,13 @@
 
       <div class="row">
         <div class="col-md-12">
-          <div class="banner-image">
+          <!--<div class="banner-image">
             <img src="//fruitsharehouston.github.io/images/open-cut-fruit.jpg"/>
             <div class="banner-image-text">
               <h1>100,000 pounds <strong>picked</strong> &amp; <strong>shared</strong> last season!</h1>
             </div>
-          </div>
+          </div>-->
+         <?php do_action('slideshow_deploy', '86'); ?>
         </div>
       </div>
 
