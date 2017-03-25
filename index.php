@@ -5,14 +5,8 @@
 
       <div class="row">
         <div class="col-md-12">
-          <!--<div class="banner-image">
-            <img src="//fruitsharehouston.github.io/images/open-cut-fruit.jpg"/>
-            <div class="banner-image-text">
-              <h1>100,000 pounds <strong>picked</strong> &amp; <strong>shared</strong> last season!</h1>
-            </div>
-          </div>-->
          <?php 
-             echo do_shortcode("[metaslider id=97]"); 
+           echo do_shortcode("[metaslider id=97]"); 
          ?> 
         </div>
       </div>
@@ -25,7 +19,7 @@
 
       <div class="row next-harvest">
         <div class="col-md-12">
-          <h3><a href="">Click to see our upcoming harvests</a>!</h3>
+          <h3><a href="#upcoming">Click to see our upcoming harvests</a>!</h3>
         </div>
       </div>
 
