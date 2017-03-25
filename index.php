@@ -11,7 +11,9 @@
               <h1>100,000 pounds <strong>picked</strong> &amp; <strong>shared</strong> last season!</h1>
             </div>
           </div>-->
-            
+         <?php 
+             echo do_shortcode("[metaslider id=97]"); 
+         ?> 
         </div>
       </div>
 
