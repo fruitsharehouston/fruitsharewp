@@ -11,7 +11,8 @@
               <h1>100,000 pounds <strong>picked</strong> &amp; <strong>shared</strong> last season!</h1>
             </div>
           </div>-->
-
+            [nivoslider id="92"]
+            [nivoslider slug="front_page_slideshow"]
         </div>
       </div>
 
