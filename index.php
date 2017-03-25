@@ -11,8 +11,7 @@
               <h1>100,000 pounds <strong>picked</strong> &amp; <strong>shared</strong> last season!</h1>
             </div>
           </div>-->
-            [nivoslider id="92"]
-            [nivoslider slug="front_page_slideshow"]
+            
         </div>
       </div>
 
@@ -24,7 +23,7 @@
 
       <div class="row next-harvest">
         <div class="col-md-12">
-          <h3>Our next harvest is on <a href="#">January 16th</a>!</h3>
+          <h3><a href="">Click to see our upcoming harvests</a>!</h3>
         </div>
       </div>
 
