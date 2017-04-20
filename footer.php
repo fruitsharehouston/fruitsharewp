@@ -2,7 +2,7 @@
     <div class="container-fluid">
 
       <a class="social">
-        <i class="fa fa-apple" aria-hidden="true"></i>
+        <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
       </a>
       <a class="social">
         <i class="fa fa-smile-o" aria-hidden="true"></i>
