@@ -28,16 +28,7 @@
             <span class="sr-only">Toggle navigation</span>
             <img src="//fruitsharehouston.github.io/images/elements/leaf-02.png" width="24"/>
           </button>
-
-          <a class="social">
-            <i class="fa fa-twitter" aria-hidden="true"></i>
-          </a>
-          <a class="social">
-            <i class="fa fa-facebook" aria-hidden="true"></i>
-          </a>
-          <a class="social">
-            <i class="fa fa-instagram" aria-hidden="true"></i>
-          </a>
+      
         </div>
 
 
