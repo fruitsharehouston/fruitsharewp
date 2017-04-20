@@ -19,7 +19,7 @@
 
       <div class="row next-harvest">
         <div class="col-md-12">
-          <h3><a href="#upcoming">Click to see our upcoming harvests</a>!</h3>
+          <h3><a href="http://fruitsharehouston.org/volunteer/">Click to see our upcoming harvests</a>!</h3>
         </div>
       </div>
 
