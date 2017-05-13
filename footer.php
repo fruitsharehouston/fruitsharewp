@@ -7,13 +7,11 @@
       <a class="social">
         <i class="fa fa-smile-o" aria-hidden="true"></i>
       </a>
-      <a class="social">
+      <a class="social" href="//fruitsharehouston.org/contact">
         <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
       </a>
 
-      <p class="contact-info">
-       Email us at fruitsharehouston@gmail.com
-      </p>
+     
 
     </div>
   </footer>
