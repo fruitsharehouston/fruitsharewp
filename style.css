@@ -338,7 +338,7 @@ a.social i {
   margin: 12px 0 0;
 }
 .action a {
-  position: relative;
+  /*position: relative;*/
   display: flex;
   align-items: center;
   justify-content: center;
