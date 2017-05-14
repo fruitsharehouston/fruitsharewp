@@ -29,19 +29,19 @@
         <div class="col-sm-4">
           <a href="//fruitsharehouston.org/volunteer">
             <h1>Pick with us</h1>
-            <img src="http://fruitsharehouston.org/wp-content/themes/Fruitshare/images/picking-fruit2.jpg"/>
+            <img src="./images/picking-fruit2.jpg"/>
           </a>
         </div>
         <div class="col-sm-4">
           <a href="//fruitsharehouston.org/share-tree">
             <h1>Share your tree</h1>
-            <img src="http://fruitsharehouston.org/wp-content/themes/Fruitshare/images/picked-fruits.jpg"/>
+            <img src="./images/picked-fruits.jpg"/>
           </a>
         </div>
         <div class="col-sm-4">
           <a href="//fruitsharehouston.org/about#press">
             <h1>News</h1>
-            <img src="http://fruitsharehouston.org/wp-content/themes/Fruitshare/images/open-cut-fruit.jpg"/>
+            <img src="./images/open-cut-fruit.jpg"/>
           </a>
         </div>
       </div>
