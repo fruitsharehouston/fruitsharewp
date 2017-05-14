@@ -29,7 +29,7 @@
         <div class="col-sm-4">
           <a href="//fruitsharehouston.org/volunteer">
             <h1>Pick with us</h1>
-            <img src="http://fruitsharehouston.org/wp-content/themes/Fruitshare#/images/picking-fruit2.jpg"/>
+            <img src="http://fruitsharehouston.org/wp-content/themes/Fruitshare/images/picking-fruit2.jpg"/>
           </a>
         </div>
         <div class="col-sm-4">
