@@ -437,13 +437,13 @@ footer .contact-info {
 }
 
 @media screen and (min-width: 550px) {
-  .action img[src="./images/open-cut-fruit.jpg"] {
+  .action img[src="http://fruitsharehouston.org/wp-content/themes/Fruitshare/images/open-cut-fruit.jpg"] {
     top: -220px;
   }
-  .action img[src="./images/picking-fruit.jpg"] {
+  .action img[src="http://fruitsharehouston.org/wp-content/themes/Fruitshare/images/picking-fruit.jpg"] {
     top: -180px;
   }
-  .action img[src="./images/picked-fruits.jpg"] {
+  .action img[src="http://fruitsharehouston.org/wp-content/themes/Fruitshare/images/picked-fruits.jpg"] {
     top: -400px;
   }
 }
@@ -476,13 +476,13 @@ footer .contact-info {
   .action a {
     margin: 0;
   }
-  .action img[src="./images/open-cut-fruit.jpg"] {
+  .action img[src="http://fruitsharehouston.org/wp-content/themes/Fruitshare/images/open-cut-fruit.jpg"] {
     top: 0;
   }
-  .action img[src="./images/picking-fruit.jpg"] {
+  .action img[src="http://fruitsharehouston.org/wp-content/themes/Fruitshare/images/picking-fruit.jpg"] {
     top: -60px;
   }
-  .action img[src="./images/picked-fruits.jpg"] {
+  .action img[src="http://fruitsharehouston.org/wp-content/themes/Fruitshare/images/picked-fruits.jpg"] {
     top: -60px;
   }
 }
