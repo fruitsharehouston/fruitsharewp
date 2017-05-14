@@ -20,13 +20,13 @@
       <div class="container-fluid">
         <div class="navbar-header">
           <a class="navbar-brand" href="//fruitsharehouston.org">
-            <img alt="Fruit Share Logo" src="http://fruitsharehouston.org/wp-content/themes/Fruitshare/images/logo-branch-menu.png">
+            <img alt="Fruit Share Logo" src="//fruitsharehouston.github.io/images/logo-branch-menu.png">
             <span class="brand-type">F<span class="hidden-xs">ruit</span> S<span class="hidden-xs">hare</span> H<span class="hidden-xs">ouston</span></span>
           </a>
 
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#fruit-share-nav" aria-expanded="false">
             <span class="sr-only">Toggle navigation</span>
-            <img src="http://fruitsharehouston.org/wp-content/themes/Fruitshare/images/elements/leaf-02.png" width="24"/>
+            <img src="//fruitsharehouston.github.io/images/elements/leaf-02.png" width="24"/>
           </button>
       
         </div>
