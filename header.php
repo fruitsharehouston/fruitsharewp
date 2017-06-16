@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>Fruit Share Houston</title>
-  <meta name="description" content="FruitShare Houston">
+  <meta name="description" content="FruitShare Houston is a Houston non-profit organization that helps you share excess fruits from your garden with local food pantries to those who need it.">
   <link id="favicon" rel="icon" href="//fruitsharehouston.github.io/images/favicon.ico" type="image/x-icon">
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
